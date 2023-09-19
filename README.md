@@ -25,6 +25,7 @@ Antes de executar a aplicação, certifique-se de ter as seguintes ferramentas i
 ```java
 String url = "jdbc:mysql://localhost/exercicio?characterEncoding=utf8";
 return DriverManager.getConnection(url, "seu_usuario", "sua_senha");
+```
 
 ## Executando a Aplicação
 
