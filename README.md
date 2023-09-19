@@ -29,7 +29,7 @@ return DriverManager.getConnection(url, "seu_usuario", "sua_senha");
 
 ## Executando a Aplicação
 
-1.Clone este repositório para o seu ambiente local.
+1. Clone este repositório para o seu ambiente local.
 2. Compile o projeto Java.
 3. Implante o arquivo WAR gerado no seu servidor Apache Tomcat.
 4. Acesse a aplicação no navegador através do endereço http://localhost:8080/seu-contexto.
